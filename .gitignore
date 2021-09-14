@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Thumbs.db
+Level-Blocking-Practice/Library/
+Level-Blocking-Practice/Temp/
